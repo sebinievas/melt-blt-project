@@ -1,0 +1,12 @@
+{
+  "name": "sebinievas/melt-blt-project",
+  "description": "Project template for Drupal 8 sites built with BLT.",
+  "type": "project",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+      "acquia/blt": "^9.1.0",
+      "sebinievas/melt-blt": "1.0.0"
+  },
+  "require-dev": {}
+}
