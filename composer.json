@@ -1,5 +1,5 @@
 {
-  "name": "meltmedia/melt-blt-project",
+  "name": "sebinievas/melt-blt-project",
   "description": "Project template for Drupal 8 sites built with BLT.",
   "type": "project",
   "minimum-stability": "dev",
@@ -8,7 +8,7 @@
     {
       "type": "package",
       "package": {
-        "name": "meltmedia/melt-blt",
+        "name": "sebinievas/melt-blt",
         "version": "1.0.0",
         "source": {
           "url": "/Users/snievas/dev/melt-blt/.git",
@@ -19,7 +19,9 @@
     }
   ],
   "require": {
-    "meltmedia/melt-blt": "1.0.0"
+    "acquia/blt": "^9.1.0"
   },
-  "require-dev": {}
+  "require-dev": {
+    "sebinievas/melt-blt": "1.0.0"
+  }
 }
