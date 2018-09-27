@@ -19,7 +19,6 @@
     }
   ],
   "require": {
-    "acquia/blt": "^9.1.0",
     "meltmedia/melt-blt": "1.0.0"
   },
   "require-dev": {}
