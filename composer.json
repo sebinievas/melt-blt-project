@@ -13,13 +13,14 @@
         "source": {
           "url": "/Users/snievas/dev/melt-blt/.git",
           "type": "git",
-          "reference": "1.0.0"
+          "reference": "refs/heads/1.0.0"
         }
       }
     }
   ],
   "require": {
-      "meltmedia/melt-blt": "1.0.0"
+    "acquia/blt": "^9.1.0",
+    "meltmedia/melt-blt": "1.0.0"
   },
   "require-dev": {}
 }
